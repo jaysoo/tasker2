@@ -17,5 +17,7 @@
         "targetName": "e2e"
       }
     }
-  ]
+  ],
+  "nxCloudAccessToken": "N2U3ZjM1YjItZThjMi00NjE5LWI4MGEtNjhjY2Y4ZjM1MTc4fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app"
 }
